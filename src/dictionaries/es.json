@@ -1,0 +1,466 @@
+{
+  "common": {
+    "session": {
+      "account": "Mi cuenta",
+      "login": "Iniciar sesión",
+      "logout": "Cerrar sesión"
+    },
+    "nav": {
+      "home": "Inicio",
+      "about": "Nosotros",
+      "products": "Nuestros productos",
+      "store": "Tienda",
+      "activities": "Actividades y formación",
+      "blog": "Blog",
+      "members": "Socias",
+      "contact": "Contacto"
+    },
+    "footer": {
+      "menu": {
+        "title": "Menú",
+        "links": {
+          "about": "Nosotros",
+          "products": "Nuestros productos",
+          "store": "Tienda",
+          "activities": "Actividades y formación",
+          "blog": "Blog",
+          "members": "Socias",
+          "contact": "Contacto"
+        }
+      },
+      "usefulLinks": {
+        "title": "Enlaces interés",
+        "links": {
+          "cookies": "Política de cookies",
+          "legal": "Aviso legal",
+          "privacy": "Privacidad de datos"
+        }
+      }
+    },
+    "contactForm": {
+      "request": {
+        "select": "Tipo de consulta",
+        "options": {
+          "default": "Tipo de consulta",
+          "information": "Información",
+          "members": "Socias",
+          "other": "Otra"
+        }
+      },
+      "member": {
+        "select": "¿Eres socia?",
+        "options": {
+          "default": "¿Eres socia?",
+          "yes": "Sí",
+          "no": "No"
+        }
+      },
+      "firstName": "Nombre",
+      "lastName": "Apellidos",
+      "email": "Email",
+      "phone": "Teléfono",
+      "message": "Tú mensaje",
+      "privacy": "He leído y acepto",
+      "privacyLink": "la política de privacidad",
+      "send": "Enviar",
+      "notifications": {
+        "success": "Tu mensaje ha sido enviado correctamente.",
+        "error": "Ha ocurrido un error al enviar tu mensaje."
+      }
+    },
+    "membersForm": {
+      "firstName": "Nombre",
+      "lastName": "Apellidos",
+      "email": "Email",
+      "phone": "Teléfono",
+      "privacy": "He leído y acepto",
+      "privacyLink": "la política de privacidad",
+      "send": "Enviar",
+      "notifications": {
+        "success": "Tu mensaje ha sido enviado correctamente.",
+        "error": "Ha ocurrido un error al enviar tu mensaje."
+      }
+    },
+    "review": {
+      "showButton": "Mostrar más",
+      "hideButton": "Ocultar"
+    },
+    "schedule": {
+      "monday": "Lunes",
+      "tuesday": "Martes",
+      "wednesday": "Miércoles",
+      "thursday": "Jueves",
+      "friday": "Viernes",
+      "saturday": "Sábado",
+      "sunday": "Domingo",
+      "closed": "Cerrado"
+    },
+    "cookieBanner": {
+      "textOne": "Para mejorar la experiencia de navegación, este sitio utiliza cookies.",
+      "textTwo": "Si continúas navegando, aceptas su uso. Consulta nuestra",
+      "link": "política de cookies",
+      "accept": "Aceptar",
+      "decline": "Cancelar"
+    }
+  },
+  "home": {
+    "title": "Tu tienda ecológica en Vigo",
+    "seo": {
+      "title": "Inicio",
+      "description": "Tu tienda ecológica en Vigo"
+    },
+    "components": {
+      "values": {
+        "h2": "Principios",
+        "values": {
+          "value1": "Consumo consciente",
+          "value2": "Comercio justo",
+          "value3": "Ecologismo",
+          "value4": "Sostenibilidad"
+        },
+        "btn": "Hacerse socia"
+      },
+      "products": {
+        "h2": "Nuestos produtos",
+        "values": {
+          "product1": "Alimentación sostible",
+          "product2": "Fruta y verdura bio",
+          "product3": "Bebidas ecológicas",
+          "product4": "Suplementos nutritivos",
+          "product5": "Higiene personal",
+          "product6": "Cosmética"
+        }
+      },
+      "activities": {
+        "h2": "Actividades del mes",
+        "description": "Todos los meses organizamos talleres y clases de formación relacionados con un estilo de vida sostenible y una alimentación saludable",
+        "btn": "Ver actividades"
+      },
+      "reviews": {
+        "h2": "Vosotras"
+      }
+    }
+  },
+  "about": {
+    "title": "Nosotros",
+    "subtitle": "Cooperativa de consumo de productos ecológicos",
+    "description": "Árbore es una cooperativa de productos ecológicos cuyo objetivo final es promover un consumo sostenible a través de un comercio justo y de proximidad.",
+    "consumer": {
+      "title": "Cooperativa de consumo de productos ecológicos y de comercio justo",
+      "descriptionOne": "En Árbore trabajamos alrededor de productos ecológicos, productos orgánicos y productos veganos y vegetarianos. Y lo hacemos siempre teniendo en cuenta a todas las partes implicadas en este necesario y complejo proceso. ",
+      "descriptionTwo": "Nos llena de orgullo poder decir que aportamos nuestro granito de arena al comercio justo y al comercio de proximidad, fomentando y promoviendo un consumo natural y sostenible.",
+      "descriptionThree": "En Árbore trabajamos con multitud de productos de origen ecológico. En nuestra tienda de Vigo podrás encontrar desde productos de alimentación hasta cosméticos, pasando por artículos de higiene, suplementos nutricionales y un largo etcétera",
+      "descriptionFour": "Nuestros principios se retroalimentan, por lo que estamos seguras de que los hace mucho más sólidos. El comercio de proximidad fomenta el comercio justo, del mismo modo que el ecologismo fomenta el vegetarianismo o que el comercio justo fomenta el propio ecologismo.",
+      "descriptionFive": "Creemos en lo que hacemos, y apostamos firmemente por lo que promovemos. Porque en Árbore sabemos que lograr un mundo mejor solo depende de nosotras mismas"
+    },
+    "environmentalism": {
+      "title": "Ecologismo",
+      "descriptionOne": "Hablar de ecologismo sin practicarlo carece de sentido. En Árbore siempre nos aseguramos de que el máximo número de productos puedan etiquetarse en la categoría de ecológicos, sin dar pie a ninguna otra lectura.",
+      "descriptionTwo": "Una forma de practicar el ecologismo es mediante la compra de productos a granel. Además de abaratar costes, siempre podrás prescindir del uso de envases innecesarios. También es una buena forma de contribuir a la economía local a la vez que compras de forma racional, es decir, lo justo y necesario.",
+      "descriptionThree": "Además, en Árbore siempre ofrecemos envases ecológicos y biodegradables. De este modo tratamos de asegurarnos de que nuestro planeta no sufra las consecuencias de nuestros intercambios comerciales.",
+      "descriptionFour": "También apostamos por los productos veganos y vegetarianos, siempre en busca de una mayor sostenibilidad a la vez que tratamos de frenar el consumo de carne animal, dañino en forma y fondo para nuestro planeta.",
+      "descriptionFive": "Y siguiendo con la minimización del impacto, promovemos la cultura del zero waste. Por eso, siendo coherentes a nuestras propuestas, fomentamos un consumo racional y sostenible, minimizando los residuos, emisiones o vertidos."
+    },
+    "trade": {
+      "title": "Comercio justo y de proximidad",
+      "descriptionOne": "En Árbore sabemos que para lograr un comercio sostenible hemos de apostar por el comercio justo y de proximidad.",
+      "descriptionTwo": "Esta la razón que justifica que en nuestra tienda tan solo encuentres frutas y verdura de temporada. Las cosas llevan su tiempo y también tienen su momento. Una agricultura intensiva basada en optimizar la producción a lo largo de los 12 meses del año nunca será, por motivos obvios, respetuosa ni con el medio ambiente ni con el propio producto.",
+      "descriptionThree": "La base del consumo responsable es, al fin y al cabo, el consumir de manera consciente y de acuerdo a nuestros principios éticos. Por eso en Árbore apostamos por el comercio justo y de proximidad. Sabemos el valor de las cosas y también apostamos por productos que otorgan a los productores un precio justo por su trabajo y que generan el menor impacto medioambiental posible, ya sea en términos de producción o de logística."
+    },
+    "vegan": {
+      "title": "Veganismo y vegetarianismo",
+      "descriptionOne": "En Árbore estamos orgullosas de promover filosofías enmarcadas en el respeto al medio ambiente. En este sentido, tanto el veganismo como el vegetarianismo suponen nuestro punto de partida, un marco ético desde el que trabajar y que nos esforzamos día a día en promover",
+      "descriptionTwo": "En nuestra tienda de productos ecológicos en Vigo podrás encontrar todo tipo de productos veganos y vegetarianos, adquiridos siempre desde principios saludables, del comercio justo y del comercio de proximidad."
+    },
+    "mission": {
+      "title": "Misión",
+      "descriptionOne": "Brindamos a nuestras socias y clientas productos y alimentos de máxima calidad, respetando el medioambiente mediante un uso óptimo de los recursos.",
+      "descriptionTwo": "Promovemos actividades y talleres de interés para nuestra comunidad, fomentando un consumo responsable y más saludable, así como el cuidado del medioambiente."
+    },
+    "overview": {
+      "title": "Visión",
+      "commerce": {
+        "title": "Comercio justo",
+        "descriptionOne": "Nuestro objetivo es seguir creciendo de forma responsable y sostenible, a través de precios justos tanto para proveedores como para nuestros clientes y de productos ecológicos, de cercanía y veggies."
+      }
+    },
+    "values": {
+      "title": "Valores",
+      "commerce": {
+        "title": "Comercio de proximidad",
+        "descriptionOne": "Promovemos el empleo en nuestro entorno y el comercio de proximidad, favoreciendo el desarrollo de la economía social y minimizando la huella ecológica.",
+        "descriptionTwo": "Sabemos que nuestra forma de consumir tiene repercusiones en el medioambiente, por lo que siempre nos preguntamos: qué compramos y dónde, cómo fue producido y cómo llegó a nosotros."
+      },
+      "food": {
+        "title": "Alimentación sostenible",
+        "descriptionOne": "Nos mueve el respeto por el medioambiente, por lo que fomentamos una compra racional y sostenible, minimizando la generación de residuos, emisiones y vertidos.",
+        "descriptionTwo": "Es por ello que los productos que encontrarás en Árbore son producidos localmente y/o de forma ecológica."
+      },
+      "products": {
+        "title": "Productos naturales",
+        "descriptionOne": "Promovemos la salud y el bienestar de nuestros clientes a través de productos frescos y naturales, al igual que ofreciendo un precio justo por la compra de los mismos."
+      }
+    },
+    "collaborators": {
+      "title": "Colaboradores"
+    },
+    "seo": {
+      "title": "Nosotros",
+      "description": "Cooperativa de consumo de productos ecológicos"
+    }
+  },
+  "products": {
+    "title": "Nuestros productos",
+    "subtitle": "Productos ecológicos y naturales",
+    "description": "Todos los productos ofertados en Árbore son productos ecológicos y naturales. Y aunque eso pueda parecer limitante, te invitamos a comprobar que la realidad es otra.",
+    "food": {
+      "title": "Alimentación",
+      "descriptionOne": "Como ya sabéis, en Árbore promovemos la alimentación sostenible. Por eso todos los productos de alimentación que encontrarás en nuestra tienda ecológica son fruto de un comercio justo, respetuoso con el medio ambiente y siempre libres de añadidos artificiales, ya sean conservantes, potenciadores de sabor o similares. Para más información, no dejes de visitar nuestra biotienda en Vigo."
+    },
+    "fresh": {
+      "title": "Frescos",
+      "descriptionOne": "Aquí puedes hacerte con fruta y verdura ecológica de temporada. Nunca nos cansaremos de promover el consumo de productos naturales, y creemos que una de las mejores formas de hacerlo es consumiendo fruta y verdura ecológica de temporada."
+    },
+    "complements": {
+      "title": "Complementos y suplementos dietéticos",
+      "descriptionOne": "En Árbore somos conscientes de que un comercio justo y ecológico no siempre puede proveernos de todos los elementos que nuestro cuerpo necesita. Por eso ofrecemos una amplia gama de complementos y suplementos dietéticos, siempre de origen ecológico."
+    },
+    "drinks": {
+      "title": "Bebidas",
+      "descriptionOne": "Porque la responsabilidad no es enemiga del placer, comprueba que también existen bebidas recreativas de origen sostenible, como la cerveza artesanal o el vino.",
+      "descriptionTwo": "Si, por el contrario, prefieres un plan más relajado, siempre puedes echar un vistazo a nuestros tés o nuestra Kombucha."
+    },
+    "cosmetics": {
+      "title": "Higiene y Cosmética",
+      "descriptionOne": "Si bien hace años casi era una quimera, a día de hoy podemos decir que la cosmética vegana es una realidad. Y esto hace que incluyamos este tipo de productos en nuestro catálogo.",
+      "descriptionTwo": "El uso de ingredientes de origen exclusivamente vegetal hace de nuestra sección de higiene y cosmética un espacio en el que podrás encontrar desde productos corporales a detergentes a granel, todos respetuosos con el medio ambiente."
+    },
+    "other": {
+      "title": "Otros",
+      "descriptionOne": "Y como siempre puede haber más, aquí encontrarás todos los productos ecológicos y fruto del comercio justo que no tienen cabida en ninguna de las categorías anteriores."
+    },
+    "seo": {
+      "title": "Productos",
+      "description": "Productos ecológicos y naturales"
+    }
+  },
+  "store": {
+    "title": "Tienda",
+    "seo": {
+      "title": "Tienda",
+      "description": "¿Qué tenemos en tienda?"
+    }
+  },
+  "activities": {
+    "title": "Actividades y formación",
+    "subtitle": "Árbore es mucho más que una tienda",
+    "descriptionOne": "En Árbore queremos ser mucho más tu tienda ecológica en Vigo. Nos gustaría ser un punto de reunión para personas interesadas o afines a nuestra visión del mundo. Queremos promover el diálogo y la integración, los intercambios enriquecedores, y somos conscientes de que una de las mejores formas de hacer esto es mediante el contacto social.",
+    "descriptionTwo": "Es por eso que ofrecemos actividades propias, tales como nuestros talleres de cocina, en los que puedas aprender a comer sano y a utilizar un gran número de productos tremendamente beneficiosos que no suelen formar parte de la oferta de las grandes superficies.",
+    "descriptionThree": "En nuestro calendario podrás ver la fecha y horario de nuestro taller de comida saludable, así como de otros eventos programados.",
+    "descriptionFour": "Siguiendo esa línea, tampoco queremos que Árbore sea exclusivamente de Árbore. Por eso ponemos nuestro local a disposición de organizaciones o asociaciones que necesiten un espacio en el que realizar cualquier tipo de actividad.",
+    "descriptionFive": "Nos gusta lo que hacemos, nos gusta compartirlo, y por eso queremos ser lo más inclusivas posible, permitiéndoos participar en nuestros eventos o cediéndoos nuestro espacio.",
+    "seo": {
+      "title": "Actividades",
+      "description": "Árbore es mucho más que una tienda"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "seo": {
+      "title": "Blog",
+      "description": "Nuestras noticias"
+    }
+  },
+  "members": {
+    "title": "Socias",
+    "subtitle": "Hazte socia de Árbore: disfruta de descuentos y participa en la cooperativa",
+    "why": {
+      "title": "¿Por qué hacerme socia de Árbore?",
+      "descriptionOne": "La razón principal para sumarse al cambio en el modelo de consumo es la alterar la manera en la que producimos, y por tanto, cambiar nuestra relación con la tierra y las personas haciendo del mundo un espacio habitable y sostenible.",
+      "descriptionTwo": "Existen otras muchas razones para pertenecer a la cooperativa, pero creemos que las más destacadas son las siguientes:",
+      "reasons": {
+        "rOne": "Alimentos de máxima calidad",
+        "rTwo": "Consumo de productos que proceden de tu entorno",
+        "rThree": "Mayor número de personas socias = Mayor capacidad de cambio",
+        "rFour": "Productos ecológicos y justos para todas las personas",
+        "rFive": "Proyecto democrático y participativo: Una socia, un voto",
+        "rSix": "Descuentos para personas socias"
+      }
+    },
+    "involvement": {
+      "title": "¿Qué implica ser socia de Árbore?",
+      "descriptionOne": " Todas las socias tienen que aportar un capital social para poder ingresar en la cooperativa. El capital obligatorio para cada socia es de 90€.",
+      "descriptionTwo": "El compromiso de permanencia en la cooperativa es de un año. Transcurrido el cual, se puede dejar de ser socia y por lo tanto recuperar la inversión inicial, es decir, el capital social.",
+      "descriptionThree": "La cooperativa emplea el dinero del capital social para invertir en sus procesos productivos, de este modo cada nueva socia permite el crecimiento y estabilidad del proyecto.",
+      "descriptionFour": "El capital social de cada socia se divide en dos partes:",
+      "listOne": {
+        "title": "Además del capital social, las socias aportan una cuota de 6€/mes, es decir 72€/año, lo que permite tener acceso a los descuentos establecidos en la Asamblea General:",
+        "lOne": "Descuento base: 8%",
+        "lTwo": "Descuento por volumen: 12%",
+        "lThree": "Descuento por productos de la 'cesta básica': 18%"
+      },
+      "listTwo": {
+        "title": "Deberes de las socias",
+        "lOne": "Cumplir con todas las aportaciones económicas establecidas por la Asamblea General",
+        "lTwo": "Consumir por lo menos 100€/año en la cooperativa",
+        "lThree": "Asistir a las asambleas generales de la cooperativa"
+      },
+      "listThree": {
+        "title": "Derechos de las socias",
+        "lOne": "Información transparente sobre las estructuras económicas y sociales de Árbore",
+        "lTwo": "Voz y voto en las asambleas, máximo órgano de decisiones de la cooperativa",
+        "lThree": "Proponer y participar en los órganos internos de la cooperativa",
+        "lFour": "Ser elegida para los cargos de los órganos sociales de la cooperativa",
+        "lFive": "Acceso a los descuentos comerciales establecidos en la Asamblea General"
+      }
+    },
+    "how": {
+      "title": "¿Cómo hacerte socia?",
+      "descriptionOne": "Dado que nuestros estatutos y acuerdos en relación a papel de las socias en la cooperativa son más extensos, aclaramos que existe más información de interés relativa a las personas socias de Árbore. En caso de que estés interesada en hacerte socia, puedes rellenar el siguiente formulario y un compañero o compañera de la cooperativa contactará contigo a través de correo electrónico o de llamada telefónica para tener una pequeña entrevista en la sede de la cooperativa y así poder conocernos en persona e intercambiar impresiones o dudas relativas a Árbore."
+    },
+    "seo": {
+      "title": "Socias",
+      "description": "Hazte socia de Árbore: disfruta de descuentos y participa en la cooperativa"
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "seo": {
+      "title": "Contacto",
+      "description": "Nuestra página de contacto"
+    }
+  },
+  "legal": {
+    "title": "Aviso legal",
+    "descriptionOne": "El Aviso Legal de www.arbore.gal tiene por objeto: dar cumplimiento a la obligación de información que el artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico impone a todo prestador de servicio, así como establecer las reglas de uso del Portal que resultarán de aplicación a todos los usuarios como consecuencia de la utilización del mismo.",
+    "descriptionTwo": "Asimismo, les informamos que este sitio no admite publicidad.",
+    "secOne": {
+      "title": "¿Quiénes Somos?",
+      "descriptionOne": "De acuerdo con lo dispuesto en el artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico (en adelante, “LSSI”), ponemos en su conocimiento que la página web con dirección URL: www.arbore.gal (en adelante, el “Sitio Web” o el “Portal Web”) así como sus subdominios es operada por Consumo Consciente Árbore, S.C.G (en adelante Árbore Consumo Consciente), inscrita en el Registro de Cooperativa de la provincia de Pontevedra: 774-PO, cuyo domicilio se encuentra en Rúa López Mora, 30; CP: 36211 Vigo (Pontevedra), España. Puede obtener más información sobre Árbore Consumo Consciente a través de la sección “Nosotros” del Portal o remitiendo un correo a la siguiente dirección de correo electrónico info@arbore.org."
+    },
+    "secTwo": {
+      "title": "Aceptación del aviso legal",
+      "descriptionOne": "El presente Aviso Legal regula la utilización de los servicios de la sociedad de la información que Árbore Consumo Consciente pone a disposición de los usuarios de la red Internet a través del Sitio Web.",
+      "descriptionTwo": "El acceso y utilización del Sitio Web por el Usuario (en adelante, el “Usuario”) supone que éste acepta en su totalidad y se obliga a cumplir por completo los términos y condiciones recogidos en el presente Aviso Legal, así como en la Política de Privacidad del Portal. Haga clic si desea acceder a la citada Política de Privacidad.",
+      "descriptionThree": "Asimismo, ponemos en conocimiento del Usuario que los aludidos servicios y funcionalidades del Sitio Web se rigen, aparte de por el presente Aviso Legal, por los términos y condiciones generales que el Usuario ha de aceptar con carácter previo a su alta como Usuario Registrado (en adelante, “Condiciones de Uso”). Haga clic si desea darse de alta como Usuario Registrado.",
+      "subOne": {
+        "title": "Condiciones de uso del Portal",
+        "descriptionOne": "El acceso al Sitio Web es gratuito, salvo en lo relativo al coste de conexión a través de la red de telecomunicaciones suministrada por el proveedor de acceso que hubiere contratado el Usuario. El Usuario se compromete a no usar el Sitio Web con fines fraudulentos, así como a no llevar a cabo conducta alguna que pudiera dañar la imagen, los intereses y los derechos de Árbore Consumo Consciente o de terceros. Asimismo, el Usuario se compromete a no realizar acto alguno con objeto de dañar, inutilizar o sobrecargar el Sitio Web, o que impidiera u obstalulizase, de cualquier forma, la normal utilización y funcionamiento del mismo.",
+        "descriptionTwo": "Se informa al Usuario de que en el caso de que incumpla el contenido del presente Aviso Legal, de la ENLACE A LA POLÍTICA DE PRIVACIDAD, de las Condiciones de Uso o de cualesquiera otros términos o condiciones particulares recogidos en el Portal, Árbore Consumo Consciente se reserva el derecho a limitar, suspender o terminar su acceso al Sitio Web, adoptando cualquier medida técnica que sea necesaria con ese fin. Asimismo, Árbore Consumo Consciente se reserva la posibilidad de ejercer tales medidas en el supuesto de que sospeche razonablemente que el Usuario está vulnerando cualquiera de los términos y condiciones recogidos en los instrumentos antes citados.",
+        "descriptionThree": "Finalmente, ponemos en conocimiento del Usuario que Árbore Consumo Consciente se reserva la facultad de, en todo momento, decidir sobre la continuidad de los servicios de la sociedad de la información que presta a través del Portal."
+      }
+    },
+    "secThree": {
+      "title": "Condiciones de uso del portal y sus subdominios",
+      "descriptionOne": "El acceso al Sitio Web es gratuito, salvo en lo relativo al coste de conexión a través de la red de telecomunicaciones suministrada por el proveedor de acceso que hubiere contratado el Usuario. El Usuario se compromete a no usar el Sitio Web con fines fraudulentos, así como a no llevar a cabo conducta alguna que pudiera dañar la imagen, los intereses y los derechos de Árbore Consumo Consciente o de terceros. Asimismo, el Usuario se compromete a no realizar acto alguno con objeto de dañar, inutilizar o sobrecargar el Sitio Web, o que impidiera u obstaculizase, de cualquier forma, la normal utilización y funcionamiento del mismo.",
+      "descriptionTwo": "Se informa al Usuario de que en el caso de que incumpla el contenido del presente Aviso Legal, de la Política de Privacidad, de las Condiciones de Uso o de cualesquiera otros términos o condiciones particulares recogidos en el Portal, Árbore Consumo Consciente se reserva el derecho a limitar, suspender o terminar su acceso al Sitio Web, adoptando cualquier medida técnica que sea necesaria con ese fin. Asimismo, Árbore Consumo Consciente se reserva la posibilidad de ejercer tales medidas en el supuesto de que sospeche razonablemente que el Usuario está vulnerando cualquiera de los términos y condiciones recogidos en los instrumentos antes citados. Asimismo, informamos a los Usuarios que Árbore Consumo Consciente se reserva el derecho a modificar el presente Aviso Legal, así como cualesquiera otros términos y condiciones contenidos en el presente Portal Web y sus subdominios, a su sola discreción.",
+      "descriptionThree": "Finalmente, ponemos en conocimiento del Usuario que Árbore Consumo Consciente se reserva la facultad de, en todo momento, decidir sobre la continuidad de los servicios de la sociedad de la información que presta a través del Portal."
+    },
+    "secFour": {
+      "title": "Propiedad industrial e intelectual",
+      "descriptionOne": "A modo enunciativo, pero no limitativo, los derechos de propiedad intelectual sobre la disposición de los contenidos del Portal (derecho sui generis sobre la base de datos), su diseño gráfico ([Metropolis.coop](http://metropolis.coop/)), los programas de ordenador subyacentes (incluidos los códigos fuente), así como los distintos elementos que integran el Portal (textos, gráficos, fotografías, videos, grabaciones sonoras, etc.), en adelante los “Contenidos”, corresponden a Árbore Consumo Consciente o a sus licenciantes.",
+      "descriptionTwo": "Con respecto a los signos distintivos incluidos en el Portal (marcas y nombres comerciales, así como cualesquiera otros) los mismos son propiedad de Árbore Consumo Consciente o de sus licenciantes. El uso del Portal por el Usuario no supone la cesión de derecho alguno de propiedad intelectual y/o industrial sobre el Portal, los Contenidos y/o los signos distintivos de Árbore Consumo Consciente. A tal efecto, mediante el presente Aviso legal, salvo en aquellos supuestos en los que esté legalmente permitido o medie previa autorización de Árbore Consumo Consciente, queda expresamente prohibido al Usuario la reproducción, transformación, distribución, comunicación pública, puesta a disposición, extracción y/o reutilización del Portal, sus Contenidos y/o los signos distintivos de Árbore Consumo Consciente o cualesquiera otros usos comerciales de los mismos."
+    },
+    "secFive": {
+      "title": "Política de enlaces",
+      "subOne": {
+        "title": "Establecimiento de enlaces con el Portal",
+        "descriptionOne": "Queda prohibido el establecimiento de enlaces con destino al Sitio Web, a menos que el mismo haya sido previamente autorizado expresamente y por escrito, por Árbore Consumo Consciente. En cualquier caso, una vez autorizado el enlace por Árbore Consumo Consciente, el mismo deberá establecerse en los siguientes términos:",
+        "descriptionTwo": "El enlace únicamente vinculará con la home page o página principal del Portal.",
+        "descriptionThree": "El enlace no podrá consistir en frames o marcos que permitan la visualización del Portal a través de direcciones de Internet distintas a las del Sitio Web o que de cualquier otra forma muestren conjuntamente la información del Portal con la incluida en otras páginas web.",
+        "descriptionFour": "No se realizarán desde la página web que introduce el enlace (en adelante, “Sitio Enlazante”) ningún tipo de manifestación falsa, inexacta o incorrecta sobre el Portal y/o Árbore Consumo Consciente.",
+        "descriptionFive": "En ningún caso se indicará en el Sitio Enlazante que Árbore Consumo Consciente ha prestado su consentimiento para la inserción del enlace o que patrocina, colabora, verifica, supervisa o aprueba el contenido y/o los servicios que se prestan a través del Sitio Enlazante.",
+        "descriptionSix": "El Sitio Enlazante deberá cumplir fielmente con la Ley y no podrá en ningún caso albergar contenidos, propios o de terceros, que: (i) sean ilícitos, nocivos o contrarios a ética y a las buenas costumbres (pornográficos, violentos, racistas, sexistas, lgtbifóbicos, aporofóbicos, maltrato animal y medioambiental, etc.); (ii) induzcan o puedan inducir en el Usuario la falsa concepción de que Árbore Consumo Consciente suscribe, respalda, se adhiere o de cualquier manera apoya, las ideas, manifestaciones o expresiones, lícitas o ilícitas del remitente; y (iii) resulten inapropiados o no pertinentes con la actividad de Árbore Consumo Consciente. En el supuesto de incumplimiento de cualquiera de los términos antes enunciado, Árbore Consumo Consciente procederá de forma inmediata y sin previa notificación a la supresión del enlace."
+      },
+      "subTwo": {
+        "title": "Sitios enlazados",
+        "descriptionOne": "A fin de ayudarle a encontrar información adicional, hemos incluido diversos dispositivos técnicos de enlaces que permiten al Usuario acceder a otras webs (en adelante, “Sitios Enlazados”). En estos casos, Árbore Consumo Consciente actúa como un prestador de servicios de intermediación, según lo dispuesto en el artículo 17 de la LSSI. De acuerdo con lo previsto en la citada legislación, Árbore Consumo Consciente no será responsable de los servicios y contenidos facilitados a través de los Sitios Enlazados, salvo que tenga conocimiento efectivo de la ilicitud y no haya desactivado el enlace con la debida diligencia. Es posible que algunos de los Sitios Enlazados sean propiedad de Árbore Consumo Consciente, en su caso Árbore Consumo Consciente será responsable de los servicios y contenidos facilitados a través de los mismos, no obstante, podrán identificar la titularidad de Árbore Consumo Consciente acudiendo al Aviso Legal de los mencionados Sitios Enlazados. En ningún caso la existencia de Sitios Enlazados, de los que no sea titular lÁrbore Consumo Consciente, comporta recomendación, promoción, identificación o conformidad de Árbore Consumo Consciente con las manifestaciones, contenidos o servicios proporcionados a través de los Sitios Enlazados. En consecuencia, Árbore Consumo Consciente no se hace responsable del contenido de los Sitios Enlazados, ni de sus condiciones de uso y políticas de privacidad, siendo el Usuario el único responsable de comprobarlos y aceptarlos cada vez que acceda y use los mismos. En el supuesto de que el Usuario considere que existen en los Sitios Enlazados contenidos ilícitos, nocivos, denigrantes, violentos o inadecuados, podrá ponerlo en conocimiento de Árbore Consumo Consciente a través de la siguiente dirección de correo electrónico: [info@arbore.org](mailto:info@arbore.org). No obstante, dicha comunicación en ningún caso conllevará la obligación de Árbore Consumo Consciente de retirar el correspondiente enlace, ni supone necesariamente el conocimiento efectivo de Árbore Consumo Consciente de la ilicitud de los contenidos del Sitio Enlazado, a los efectos de lo previsto en la normativa vigente."
+      }
+    },
+    "secSix": {
+      "title": "Denuncia de contenidos ilícitos o inapropiados",
+      "descriptionOne": "Tal y como se recoge en el apartado “ACEPTACIÓN DEL AVISO LEGAL” del presente Aviso Legal, para la participación en los servicios y funcionalidades del Portal (foros, blogs, etc.) es necesario el previo alta como Usuario Registrado.",
+      "descriptionTwo": "Sin perjuicio de lo anterior, el Usuario puede consultar los contenidos incluidos por los Usuarios Registrados con motivo de su participación en los aludidos servicios y funcionalidades. En este sentido, en el supuesto de que el Usuario observe que han sido incluidos en el Portal informaciones o contenidos de carácter ilícito, nocivo, contrarios a la ética, usos y costumbres y/o inapropiados o no pertinentes en atención a los principios, finalidades, propósitos y actividades de Árbore Consumo Consciente, podrá denunciar esta circunstancia a través de la siguiente dirección de correo electrónico, [info@arbore.org](mailto:info@arbore.org).",
+      "descriptionThree": "No obstante, dicha comunicación en ningún caso conllevará necesariamente la obligación de Árbore Consumo Consciente de retirar el correspondiente contenido o información, ni supone necesariamente el conocimiento efectivo de Árbore Consumo Consciente de la ilicitud de los contenidos del Sitio Enlazado, a los efectos de lo previsto en la normativa vigente."
+    },
+    "secSeven": {
+      "title": "Responsabilidad de Árbore Consumo Consciente",
+      "descriptionOne": "El Usuario reconoce y acepta que, aunque Árbore Consumo Consciente realiza sus mejores esfuerzos para velar por la exactitud de los contenidos e informaciones incluidos en el Sitio Web, éstos tienen carácter general y meramente informativo. De igual modo, tiene idéntico carácter la información relativa a productos de consumo, recetas, eventos, o información sobre la salud que se pone a disposición del Usuario a través del Portal, no constituyendo en ningún caso dicha información la recomendación por parte de Árbore Consumo Consciente a los Usuarios de un concreto método de alimentación o hábitos de vida. En consecuencia, Árbore Consumo Consciente no se responsabiliza de las decisiones tomadas por el Usuario a partir de la información suministrada a través del Sitio Web, ni de los daños y perjuicios producidos en el Usuario o en terceros, con motivo de actuaciones que tengan como fundamento la información obtenida del Sitio Web.",
+      "descriptionTwo": "Por otro lado, a través de funcionalidades tales como foros de opinión, blogs, etc., Árbore Consumo Consciente ofrece al Usuario Registrado la posibilidad de incluir en el Portal informaciones y contenidos. En este sentido, Árbore Consumo Consciente realiza sus mejores esfuerzos para revisar que las informaciones y contenidos incluidos en el Portal por los Usuarios Registrados no tengan contenido ilícito, denigratorio, difamatorio, violento o nocivo; ni sean contrarios a la Ley, la ética, la moral, las buenas costumbres o los principios de Árbore Consumo Consciente.",
+      "descriptionThree": "No obstante, dada la imposibilidad material de realizar dicha revisión con carácter exhaustivo, la publicación en el Sitio Web de las informaciones y contenidos proporcionados por los Usuarios Registrados, ni puede ni debe interpretarse o entenderse en forma alguna, como una aprobación, recomendación, promoción, identificación o conformidad de Árbore Consumo Consciente con la información o contenido publicado. De este modo, en ningún caso será responsable Árbore Consumo Consciente de las informaciones y contenidos incluidos por el Usuario Registrado en el Sitio Web, siendo éste el único responsable de las consecuencias que se puedan derivar de la inclusión por su parte en el Portal de informaciones o contenidos ilícitos.",
+      "descriptionFour": "Sin perjuicio de lo anterior, Árbore Consumo Consciente se reserva en los términos contenidos en las Condiciones de Uso, la posibilidad de retirar en cualquier momento las informaciones o contenidos incluidos por el Usuario Registrado en el Sitio Web, en el supuesto de que considere que los mismos son potencialmente ilícitos, inapropiados o inadecuados, o no pertinentes en atención a los principios, finalidades, propósitos y actividades de la AECC. Por otro lado, el acceso al Sitio Web no implica la obligación por parte de Árbore Consumo Consciente de controlar la ausencia de virus, gusanos o cualquier otro elemento informático dañino. Corresponde al Usuario, en todo caso, la utilización de herramientas adecuadas para la detección de dichos elementos dañinos. En consecuencia, Árbore Consumo Consciente no se responsabilizará de los daños producidos en los equipos informáticos del Usuario o de terceros mediante la prestación de los servicios a través del Sitio Web.",
+      "descriptionFive": "La disponibilidad del servicio requiere de servicios y suministros de terceros, incluidos servicios de transporte a través de redes de telecomunicaciones cuya fiabilidad, calidad y funcionamiento no depende de Árbore Consumo Consciente. En consecuencia, Árbore Consumo Consciente no garantiza la disponibilidad del Sitio Web pudiendo interrumpirse, suspenderse o cancelarse en cualquier momento los servicios prestados a través del mismo. En particular, Árbore Consumo Consciente no se responsabiliza de los daños o perjuicios de cualquier índole causados al Usuario, como consecuencia de la falta de disponibilidad del Sitio Web y, en particular, los que traigan causa en fallos de las redes de telecomunicaciones. Asimismo, Árbore Consumo Consciente se reserva el derecho a la revisión del Sitio Web o a la denegación del acceso al mismo en cualquier momento."
+    },
+    "secEight": {
+      "title": "Obligaciones de los socios",
+      "descriptionOne": "Los usuarios que deseen darse de alta con socios, deberán cumplimentar el formulario establecido en nuestro Portal Web. La condición de socio es personal e intransferible. Podrán ser socios aquellas personas físicas o jurídicas con capacidad legal. En caso de ser menor de edad debemos contar con el consentimiento escrito del tutor o tutores legales. A través de este formulario, los usuarios deberán facilitar sus datos personales identificativos, datos de contacto y datos bancarios. Los socios, deberán satisfacer una cuota, que podrá ser de 10€, 20€, 40€ u otras cantidades que deseen aportar como condición de socios. Los socios tienen la responsabilidad de mantener sus datos actualizados y comunicar cualquier modificación a Árbore Consumo Consciente. Los socios deberán no revelar o transmitir ningún número de socio o cualquier otro identificativo a terceras personas, así como el resto de datos personales que pudiesen ser utilizados en contra de los intereses de Árbore Consumo Consciente o de terceros. Los socios están obligados a hacer un uso correcto, de los derechos y ventajas que ofrece tal condición. Árbore Consumo Consciente se reserva el derecho a denegar o retirar la condición de socio si tiene conocimiento de conductas que vayan en contra de los principios de la entidad, así como aquellos términos y condiciones que se hubiesen pactado particularmente con el socio. Asimismo, Árbore Consumo Consciente se reserva el derecho a retirar la condición de socio, en caso de no satisfacer las cuotas establecidas o de incumplir los estatutos y normas de la cooperativa. Finalmente, los socios podrán darse de baja de su condición como socios, en cualquier momento, para ello deberán dirigirse a [info@arbore.org](mailto:info@arbore.org) identificándose como socio expresando su voluntad de darse de baja."
+    },
+    "secNine": {
+      "title": "Protección de datos",
+      "descriptionOne": "Los aspectos relativos al tratamiento de los datos personales de los Usuarios con motivo del uso del Portal se hallan regulados en la Política de Privacidad, así como en los textos legales adjuntos a los diversos formularios de recogida de datos incluidos en el Portal. Todos los usuarios que hagan uso de nuestro Portal Web están obligados a revisar la Política de Privacidad, con el objetivo de que estén informados de los posibles tratamientos de sus datos personales y de los derechos que les asisten. Árbore Consumo Consciente recomienda revisar la Política de Privacidad, el presente Aviso Legal, así como cualesquiera otros términos y condiciones incluidos en el presente portal, de forma regular puesto que Árbore Consumo Consciente se reserva el derecho a modificarlos dentro de los límites que la legislación vigente y de aplicación permita. Tal y como se indica en el apartado 2.1 del presente Aviso Legal, los aspectos relativos al tratamiento de los datos personales de los Usuarios con motivo del uso del Portal se hallan regulados en la ENLACE A LA POLÍTICA DE PRIVACIDAD, así como en los textos legales adjuntos a los diversos formularios de recogida de datos incluidos en el Portal."
+    },
+    "secTen": {
+      "title": "Miscelánea",
+      "descriptionOne": "De conformidad con el artículo 3 de la LSSI, las leyes aplicables a los servicios de la sociedad de la información que Árbore Consumo Consciente presta a través del Portal serán las del Reino de España. En caso de que alguna de las disposiciones contenidas en el presente Aviso legal sea declarada nula, se procederá a la retirada o sustitución de la misma. En cualquier caso, dicha declaración de nulidad no afectará a la validez del resto de disposiciones recogidas en este Aviso Legal. El Usuario y Árbore Consumo Consciente aceptan someterse a los Juzgados y Tribunales de Vigo rechazando cualquier otro fuero voluntario, en relación a cualesquiera conflictos que puedan como consecuencia del uso del Portal Web por parte de los usuarios."
+    },
+    "seo": {
+      "title": "Aviso legal",
+
+      "description": "Aviso legal de Árbore Consumo Consciente"
+    }
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "seo": {
+      "title": "Política de privacidad",
+      "description": "Política de privacidad"
+    }
+  },
+  "cookies": {
+    "title": "Política de cookies",
+    "secOne": {
+      "title": "¿Qué es una cookie?",
+      "descriptionOne": "Ponemos en conocimiento del Usuario que el Portal utiliza dispositivos cookie al objeto de personalizar la disposición de los contenidos que se ofrecen a través del Sitio Web a las rutinas de navegación y preferencias del Usuario.",
+      "descriptionTwo": "Las cookies son procedimientos automáticos de recogida de información relativa a las preferencias determinadas por un usuario durante su visita a una determinada página web con el fin de reconocerlo como usuario recurrente y personalizar su experiencia y el uso por su parte de nuestro Portal. Las cookies se guardarán en el disco duro de su ordenador hasta que usted las elimine."
+    },
+    "secTwo": {
+      "title": "¿Qué tipos de cookies se utilizan en nuestro Portal?",
+      "subOne": {
+        "title": "Cookies técnicas",
+        "descriptionOne": "Son necesarias para el propio funcionamiento de la web.",
+        "c1": {
+          "title": "Cookie permanente",
+          "descriptionOne": "Son almacenadas en el disco duro y la página web las lee cada vez que usted realiza una nueva visita. Se utilizan para facilitar el inicio de sesión en la web de Árbore Consumo Consciente y el consentimiento a la política de dichas cookies.",
+          "name": "consentCookie"
+        }
+      },
+      "subTwo": {
+        "title": "Cookies de análisis",
+        "descriptionOne": "Son utilizadas para obtener estadísticas de navegación anónima. Con el fin de mejorar la navegación por nuestra web. Para ello utilizamos las cookies de Google Analytics y Google Tag Manager.",
+        "descriptionTwo": "Los nombres de estas cookies son: _gid and _ga."
+      }
+    },
+    "secThree": {
+      "title": "¿Cómo deshabilitar las cookies?",
+      "descriptionOne": "Le informamos que puede fácilmente rechazar y eliminar las cookies instaladas en su ordenador mediante la configuración de su programa de navegación. En este sentido, los procedimientos para el bloqueo y eliminación de las cookies pueden diferir de un navegador de Internet a otro y, en consecuencia, le rogamos acuda a las instrucciones facilitadas por el fabricante de su navegador de Internet. En el supuesto de que rechace el uso de cookies podrá seguir usando nuestro Portal, si bien podrá tener limitado la utilización de algunas de las prestaciones del Sitio Web.",
+      "descriptionTwo": "A través de los siguientes enlaces, a los principales navegadores, podrán configurar las cookies de su dispositivo, terminal u ordenador:",
+      "links": {
+        "chrome": "https://support.google.com/chrome/answer/95647?hl=es&hlrm=en",
+        "firefox": "http://support.mozilla.org/es/kb/cookies-informacion-que-los-sitios-web-guardan-en-?redirectlocale=en-US&redirectslug=Cookies",
+        "safari": "http://support.apple.com/kb/PH5042?viewlocale=es_EShttp://support.apple.com/kb/HT1677?viewlocale=es_ES",
+        "opera": "http://help.opera.com/Windows/11.50/es-ES/cookies.html"
+      }
+    },
+    "seo": {
+      "title": "Política de cookies",
+      "description": "Política de cookies"
+    }
+  },
+  "404": {
+    "title": "404 - No se ha encontrado!",
+    "seo": {
+      "title": "404",
+      "description": "404 Not Found"
+    }
+  }
+}

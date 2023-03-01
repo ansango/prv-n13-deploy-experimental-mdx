@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  @apply h-full motion-safe:scroll-smooth font-sans;
+  @apply prose prose-headings:text-primary;
+}
+
+body,
+#__next {
+  @apply font-sans h-full bg-default text-default text-base;
+  scroll-behavior: smooth;
+}

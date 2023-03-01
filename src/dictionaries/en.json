@@ -1,0 +1,465 @@
+{
+  "common": {
+    "session": {
+      "account": "My account",
+      "login": "Login",
+      "logout": "Logout"
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "products": "Our products",
+      "store": "Store",
+      "activities": "Activities & training",
+      "blog": "Blog",
+      "members": "Members",
+      "contact": "Contact"
+    },
+    "footer": {
+      "menu": {
+        "title": "Menu",
+        "links": {
+          "about": "About",
+          "products": "Our products",
+          "store": "Store",
+          "activities": "Activities & training",
+          "blog": "Blog",
+          "members": "Members",
+          "contact": "Contact"
+        }
+      },
+      "usefulLinks": {
+        "title": "Useful Links",
+        "links": {
+          "cookies": "Cookies policy",
+          "legal": "Legal notice",
+          "privacy": "Privacy policy"
+        }
+      }
+    },
+    "contactForm": {
+      "request": {
+        "select": "Type of query",
+        "options": {
+          "default": "Type of query",
+          "information": "Information",
+          "members": "Members",
+          "other": "Other"
+        }
+      },
+      "member": {
+        "select": "Are you a member?",
+        "options": {
+          "default": "Member",
+          "yes": "Yes",
+          "no": "No"
+        }
+      },
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Your message",
+      "privacy": "I have read and accept",
+      "privacyLink": "the privacy policy",
+      "send": "Send",
+      "notifications": {
+        "success": "Your message has been sent successfully.",
+        "error": "An error occurred while sending your message."
+      }
+    },
+    "membersForm": {
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "phone": "Phone",
+      "privacy": "I have read and accept",
+      "privacyLink": "the privacy policy",
+      "send": "Send",
+      "notifications": {
+        "success": "Your message has been sent successfully.",
+        "error": "An error occurred while sending your message."
+      }
+    },
+    "review": {
+      "showButton": "Show more",
+      "hideButton": "Hide"
+    },
+    "schedule": {
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "closed": "Closed"
+    },
+    "cookieBanner": {
+      "textOne": "This website uses cookies to improve your experience.",
+      "textTwo": "By continuing to browse the site, you agree to our use of cookies. Check out our",
+      "link": "cookie policy",
+      "accept": "Accept",
+      "decline": "Decline"
+    }
+  },
+  "home": {
+    "title": "Your green store in Vigo",
+    "seo": {
+      "title": "Home",
+      "description": "Your green store in Vigo"
+    },
+    "components": {
+      "values": {
+        "h2": "Values",
+        "values": {
+          "value1": "Conscious consumption",
+          "value2": "Fair trade",
+          "value3": "Environmentalism",
+          "value4": "Sustainability"
+        },
+        "btn": "Become a member"
+      },
+      "products": {
+        "h2": "Our products",
+        "values": {
+          "product1": "Sustainable food",
+          "product2": "Organic fruit and vegetables",
+          "product3": "Organic drinks",
+          "product4": "Nutritional supplements",
+          "product5": "Personal hygiene",
+          "product6": "Cosmetics"
+        }
+      },
+      "activities": {
+        "h2": "Month's activities",
+        "description": "Every month we organize workshops and training classes related to sustainable lifestyle and healthy eating.",
+        "btn": "See more"
+      },
+      "reviews": {
+        "h2": "Your reviews"
+      }
+    }
+  },
+  "about": {
+    "title": "About us",
+    "subtitle": "Cooperative for the consumption of organic products",
+    "description": "Árbore is a cooperative of organic products whose ultimate goal is to promote sustainable consumption through fair and local trade.",
+    "consumer": {
+      "title": "Cooperative for the consumption of ecological and fair trade products",
+      "descriptionOne": "In Árbore we work around ecological products, organic products and vegan and vegetarian products. And we always do it taking into account all the parties involved in this necessary and complex process.",
+      "descriptionTwo": "We are proud to say that we contribute our grain of sand to fair trade and local commerce, fostering and promoting natural and sustainable consumption.",
+      "descriptionThree": "At Árbore we work with a multitude of products of ecological origin. In our store in Vigo you can find everything from food products to cosmetics, through hygiene items, nutritional supplements and a long etcetera.",
+      "descriptionFour": "Our principles feed into each other, so we are sure that it makes them much more solid. Local trade encourages fair trade, in the same way that environmentalism encourages vegetarianism or fair trade encourages environmentalism itself.",
+      "descriptionFive": "We believe in what we do, and we are firmly committed to what we promote. Because at Árbore we know that achieving a better world only depends on ourselves."
+    },
+    "environmentalism": {
+      "title": "Environmentalism",
+      "descriptionOne": "Talking about environmentalism without practicing it is meaningless. At Árbore we always make sure that the maximum number of products can be labeled in the organic category, without giving rise to any other reading.",
+      "descriptionTwo": "One way to go green is by buying products in bulk. In addition to reducing costs, you can always do without the use of unnecessary packaging. It is also a good way to contribute to the local economy while buying rationally, that is, what is fair and necessary.",
+      "descriptionThree": "In addition, at Árbore we always offer ecological and biodegradable packaging. In this way we try to ensure that our planet does not suffer the consequences of our commercial exchanges.",
+      "descriptionFour": "We are also committed to vegan and vegetarian products, always in search of greater sustainability while trying to curb the consumption of animal meat, harmful in form and substance for our planet. And continuing with the minimization of the impact, we promote the culture of zero waste. ",
+      "descriptionFive": "Therefore, being consistent with our proposals, we promote rational and sustainable consumption, minimizing waste, emissions or discharges."
+    },
+    "trade": {
+      "title": "Fair and local trade",
+      "descriptionOne": "At Árbore we know that to achieve sustainable trade we have to bet on fair and local trade.",
+      "descriptionTwo": "This is the reason that justifies that in our store you only find seasonal fruits and vegetables. Things take their time and they also have their moment. An intensive agriculture based on optimizing production throughout the 12 months of the year will never, for obvious reasons, respect the environment or the product itself.",
+      "descriptionThree": "The basis of responsible consumption is, after all, consuming consciously and in accordance with our ethical principles. That is why at Árbore we are committed to fair and local trade. We know the value of things and we also bet on products that give producers a fair price for their work and that generate the least possible environmental impact, either in terms of production or logistics."
+    },
+    "vegan": {
+      "title": "Veganism and vegetarianism",
+      "descriptionOne": "At Árbore we are proud to promote philosophies framed in respect for the environment. In this sense, both veganism and vegetarianism represent our starting point, an ethical framework from which to work and that we strive every day to promote.",
+      "descriptionTwo": "In our organic products store in Vigo you can find all kinds of vegan and vegetarian products, always acquired from healthy principles, fair trade and local commerce."
+    },
+    "mission": {
+      "title": "Mission",
+      "descriptionOne": "We provide our partners and clients with products and food of the highest quality, respecting the environment through optimal use of resources.",
+      "descriptionTwo": "We promote activities and workshops of interest to our community, promoting responsible and healthier consumption, as well as caring for the environment."
+    },
+    "overview": {
+      "title": "Vision",
+      "commerce": {
+        "title": "Fair Trade",
+        "descriptionOne": "Our goal is to continue growing in a responsible and sustainable way, through fair prices for both suppliers and our customers and ecological products, proximity and veggies."
+      }
+    },
+    "values": {
+      "title": "Values",
+      "commerce": {
+        "title": "Local commerce",
+        "descriptionOne": "We promote employment in our environment and local commerce, favoring the development of the social economy and minimizing the ecological footprint.",
+        "descriptionTwo": "We know that the way we consume has repercussions on the environment, so we always ask ourselves: what do we buy and where, how it was produced and how it came to us."
+      },
+      "food": {
+        "title": "Sustainable food",
+        "descriptionOne": "We are motivated by respect for the environment, which is why we promote rational and sustainable purchasing, minimizing the generation of waste, emissions and discharges.",
+        "descriptionTwo": "That is why the products that you will find in Árbore are produced locally and / or in an ecological way."
+      },
+      "products": {
+        "title": "Natural products",
+        "descriptionOne": "We promote the health and well-being of our customers through fresh and natural products, as well as offering a fair price for their purchase."
+      }
+    },
+    "collaborators": {
+      "title": "Collaborators"
+    },
+    "seo": {
+      "title": "About",
+      "description": "Cooperative for the consumption of organic products"
+    }
+  },
+  "products": {
+    "title": "Our products",
+    "subtitle": "Ecological and natural products",
+    "description": "All the products offered in Árbore are ecological and natural products. And although that may seem limiting, we invite you to verify that the reality is different.",
+    "food": {
+      "title": "Feeding",
+      "descriptionOne": "As you already know, at Árbore we promote sustainable food. That is why all the food products that you will find in our organic store are the result of fair trade, respectful of the environment and always free of artificial additives, be they preservatives, flavor enhancers or similar. For more information, be sure to visit our biottore in Vigo."
+    },
+    "fresh": {
+      "title": "Fresh",
+      "descriptionOne": "Here you can get organic seasonal fruit and vegetables. We will never tire of promoting the consumption of natural products, and we believe that one of the best ways to do so is by consuming seasonal organic fruit and vegetables."
+    },
+    "complements": {
+      "title": "Supplements and dietary supplements",
+      "descriptionOne": "At Árbore we are aware that a fair and ecological trade cannot always provide us with all the elements that our body needs. That is why we offer a wide range of supplements and dietary supplements, always of organic origin."
+    },
+    "drinks": {
+      "title": "Drinks",
+      "descriptionOne": "Because responsibility is not the enemy of pleasure, check that there are also recreational drinks of sustainable origin, such as craft beer or wine.",
+      "descriptionTwo": "If, on the other hand, you prefer a more relaxed plan, you can always take a look at our teas or our Kombucha."
+    },
+    "cosmetics": {
+      "title": "Hygiene and Cosmetics",
+      "descriptionOne": "Although years ago it was almost a chimera, today we can say that vegan cosmetics is a reality. And this makes us include this type of product in our catalog.Although years ago it was almost a chimera, today we can say that vegan cosmetics is a reality. And this makes us include this type of product in our catalog.",
+      "descriptionTwo": "The use of ingredients of exclusively vegetable origin makes our hygiene and cosmetics section a space where you can find everything from body products to bulk detergents, all respectful of the environment."
+    },
+    "other": {
+      "title": "Others",
+      "descriptionOne": "And as there can always be more, here you will find all the organic and fair trade products that have no place in any of the previous categories."
+    },
+    "seo": {
+      "title": "Products",
+      "description": "Ecological and natural products"
+    }
+  },
+  "store": {
+    "title": "Store",
+    "seo": {
+      "title": "Store",
+      "description": "Store Page"
+    }
+  },
+  "activities": {
+    "title": "Activities & training",
+    "subtitle": "Árbore is much more than a store",
+    "descriptionOne": "At Árbore we want to be much more your organic store in Vigo. We would like to be a meeting point for people interested or related to our vision of the world. We want to promote dialogue and integration, enriching exchanges, and we are aware that one of the best ways to do this is through social contact.",
+    "descriptionTwo": "That is why we offer our own activities, such as our cooking workshops, in which you can learn to eat healthy and use a large number of tremendously beneficial products that are not usually part of the offer of large stores.",
+    "descriptionThree": "In our calendar you can see the date and time of our healthy food workshop, as well as other scheduled events.",
+    "descriptionFour": "Following that line, we don't want Árbore to be exclusively from Árbore. That is why we make our premises available to organizations or associations that need a space in which to carry out any type of activity",
+    "descriptionFive": "We like what we do, we like to share it, and that is why we want to be as inclusive as possible, allowing you to participate in our events or giving us our space.",
+    "seo": {
+      "title": "Activities",
+      "description": "Árbore is much more than a store"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "seo": {
+      "title": "Blog",
+      "description": "Blog Page"
+    }
+  },
+  "members": {
+    "title": "Members",
+    "subtitle": "Become a member of Árbore: enjoy discounts and participate in the cooperative company",
+    "why": {
+      "title": "Why become a member of Árbore?",
+      "descriptionOne": "The main reason for joining the change in the consumption model is to alter the way we produce, and therefore, change our relationship with the earth and people, making the world a habitable and sustainable space.",
+      "descriptionTwo": "There are many other reasons for belonging to the cooperative, but we believe that the most prominent are the following:",
+      "reasons": {
+        "rOne": "Top quality food",
+        "rTwo": "Consumption of products that come from your environment",
+        "rThree": "Consumption of products that come from your environment",
+        "rFour": "Ecological and fair products for all people",
+        "rFive": "Democratic and participatory project: One member, one vote",
+        "rSix": "Discounts for members"
+      }
+    },
+    "involvement": {
+      "title": "What does it mean to be a member of Árbore?",
+      "descriptionOne": "All members have to contribute social capital to be able to join the cooperative. The mandatory capital for each member is € 90.",
+      "descriptionTwo": "The commitment to stay in the cooperative is one year. After which, you can stop being a member and therefore recover the initial investment, that is, the capital stock.",
+      "descriptionThree": "The cooperative uses the money from the social capital to invest in its production processes, in this way each new member allows the growth and stability of the project.",
+      "listOne": {
+        "title": "In addition to the share capital, the members contribute a fee of € 6 / month, that is, € 72 / year, which allows access to the discounts established in the General Assembly:",
+        "lOne": "Base discount: 8%",
+        "lTwo": "Volume discount: 12%",
+        "lThree": "Discount for products in the 'basic basket': 18%"
+      },
+      "listTwo": {
+        "title": "Members' duties",
+        "lOne": "Comply with all the economic contributions established by the General Assembly",
+        "lTwo": "Consume at least € 100 / year in the cooperative",
+        "lThree": "Attend the general assemblies of the cooperative"
+      },
+      "listThree": {
+        "title": "Members' rights",
+        "lOne": "Transparent information on the economic and social structures of Árbore",
+        "lTwo": "Voice and vote in the assemblies, the highest decision-making body of the cooperative",
+        "lThree": "Propose and participate in the internal organs of the cooperative",
+        "lFour": "Be elected for the positions of the social bodies of the cooperative",
+        "lFive": "Access to commercial discounts established in the General Assembly"
+      }
+    },
+    "how": {
+      "title": "Access to commercial discounts established in the General Assembly",
+      "descriptionOne": "Given that our statutes and agreements in relation to the role of the members in the cooperative are more extensive, we clarify that there is more information of interest relative to the members of Árbore. In case you are interested in becoming a member, you can fill out the following form and a colleague of the cooperative will contact you via email or phone call to have a short interview at the headquarters of the cooperative and thus be able to meet us at person and exchange impressions or doubts regarding Árbore."
+    },
+    "seo": {
+      "title": "Members",
+      "description": "Become a member of Árbore: enjoy discounts and participate in the cooperative"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "seo": {
+      "title": "Contact",
+      "description": "Contact Page"
+    }
+  },
+  "legal": {
+    "title": "Legal warning",
+    "descriptionOne": "The purpose of the Legal Notice of www.arbore.gal is: to comply with the information obligation that article 10 of Law 34/2002, of July 11, on Services of the Information Society and Electronic Commerce imposes on all service provider, as well as establishing the rules of use of the Portal that will be applicable to all users as a result of using it.",
+    "descriptionTwo": "Likewise, we inform you that this site does not support advertising.",
+    "secOne": {
+      "title": "Who we are",
+      "descriptionOne": "In accordance with the provisions of article 10 of Law 34/2002, of July 11, Services of the Information Society and Electronic Commerce (hereinafter, *LSSI*), we inform you that the website with URL address: www.arbore.gal (hereinafter, the “Website” or the “Web Portal”) as well as its subdomains is operated by Conscientious Consumption Árbore, SCG (Conscious Conscious Consumption), registered in the Registry of Cooperative of the province of Pontevedra: 774-PO, whose address is at Rúa López Mora, 30; CP: 36211 Vigo (Pontevedra), Spain. You can obtain more information about Árbore Conscious Consumption through the *About Us* section of the Portal or by sending an email to the following email address info@arbore.org."
+    },
+    "secTwo": {
+      "title": "Acceptance of legal warning",
+      "descriptionOne": "This Legal Notice regulates the use of the services of the information society that Árbore Conscious Consumption makes available to users of the Internet through the Website.",
+      "descriptionTwo": "The access and use of the Website by the User (hereinafter, the *User*) implies that the User fully accepts and agrees to comply in full with the terms and conditions set forth in this Legal Notice, as well as in the Portal's Privacy Policy. Click here if you wish to access the aforementioned Privacy Policy.",
+      "descriptionThree": "Likewise, we inform the User that the aforementioned services and functionalities of the Website are governed, apart from this Legal Notice, by the general terms and conditions that the User must accept prior to registration as a Registered User (hereinafter, *Terms of Use*). Click here if you wish to register as a Registered User.",
+      "subOne": {
+        "title": "Acceptance of the Legal Notice",
+        "descriptionOne": "Access to the Website is free of charge, except for the cost of connection through the telecommunications network provided by the access provider contracted by the User. The User agrees not to use the Website for fraudulent purposes, as well as not to carry out any conduct that could damage the image, interests and rights of Árbore Conscious Consumption or third parties. Likewise, the User undertakes not to carry out any act aimed at damaging, rendering useless or overloading the Website, or preventing or hindering, in any way, the normal use and operation of the same.",
+        "descriptionTwo": "The User is informed that in the event of breach of the contents of this Legal Notice, the LINK TO THE PRIVACY POLICY, the Terms of Use or any other particular terms or conditions contained in the Portal, Árbore Conscious Consumption reserves the right to limit, suspend or terminate your access to the Website, taking any technical measures necessary for that purpose. Also, Árbore Conscious Consumption reserves the possibility of exercising such measures in the event that it reasonably suspects that the User is violating any of the terms and conditions contained in the aforementioned instruments.",
+        "descriptionThree": "Finally, we inform the User that Árbore Conscious Consumption reserves the right, at any time, to decide on the continuity of the services of the information society provided through the Portal."
+      }
+    },
+    "secThree": {
+      "title": "Conditions of use of the portal and its subdomains",
+      "descriptionOne": "Access to the Website is free of charge, except for the cost of connection through the telecommunications network provided by the access provider contracted by the User. The User agrees not to use the Website for fraudulent purposes, as well as not to carry out any conduct that could damage the image, interests and rights of Árbore Conscious Consumption or third parties. Likewise, the User undertakes not to carry out any act aimed at damaging, rendering useless or overloading the Website, or preventing or hindering, in any way, the normal use and operation of the same.",
+      "descriptionTwo": "The User is informed that in the event of breach of the contents of this Legal Notice, the Privacy Policy, the Terms of Use or any other terms or conditions contained in the Portal, Árbore Conscious Consumption reserves the right to limit, suspend or terminate your access to the Website, taking any technical measure necessary for that purpose. Also, Árbore Conscious Consumption reserves the possibility of exercising such measures in the event that it reasonably suspects that the User is violating any of the terms and conditions contained in the aforementioned instruments. We also inform Users that Árbore Conscious Consumption reserves the right to modify this Legal Notice, as well as any other terms and conditions contained in this Web Portal and its subdomains, at its sole discretion.",
+      "descriptionThree": "Finally, we inform the User that Árbore Conscious Consumption reserves the right, at any time, to decide on the continuity of the services of the information society provided through the Portal."
+    },
+    "secFour": {
+      "title": "Industrial and intellectual property",
+      "descriptionOne": "By way of example, but not limited to, the intellectual property rights on the layout of the contents of the Portal (sui generis right on the database), its graphic design (Metropolis.coop), the underlying computer programs (including source codes), as well as the various elements that make up the Portal (text, graphics, photographs, videos, sound recordings, etc.), hereinafter the *Content*, belong to Árbore Conscious Consumption or its licensors.",
+      "descriptionTwo": "The User agrees not to use the Portal for any purpose that is unlawful or prohibited by this Legal Notice, as well as not to infringe the rights of Árbore Conscious Consumption or third parties. Likewise, the User undertakes not to carry out any act aimed at damaging, rendering useless or overloading the Portal, or preventing or hindering, in any way, the normal use and operation of the same."
+    },
+    "secFive": {
+      "title": "Links policy",
+      "subOne": {
+        "title": "Establishment of links to the Website",
+        "descriptionOne": "The establishment of links to the Website is prohibited, unless it has been previously authorized expressly and in writing by Árbore Conscious Consumption. In any case, once the link has been authorized by Árbore Conscious Consumption, it must be established in the following terms:",
+        "descriptionTwo": "The link will only link to the home page or main page of the Portal.",
+        "descriptionThree": "The link may not consist of frames or frames that allow the display of the Portal through Internet addresses other than those of the Website or in any other way show together the information of the Portal with that included in other web pages.",
+        "descriptionFour": "No false, inaccurate or incorrect statement about the Portal and/or Árbore Conscious Consumption shall be made from the website that introduces the link (hereinafter, *Linking Site*).",
+        "descriptionFive": "In no case shall it be indicated on the Linking Site that Árbore Conscious Consumption has consented to the insertion of the link or that it sponsors, collaborates, verifies, supervises or approves the content and/or services provided through the Linking Site.",
+        "descriptionSix": "The Linking Site must faithfully comply with the Law and may not under any circumstances host content, whether its own or that of third parties, that: (i) are unlawful, harmful or contrary to ethics and good customs (pornographic, violent, racist, sexist, lgtbiphobic, aporophobic, animal and environmental abuse, etc. ); (ii) induce or may induce in the User the false conception that Árbore Consumo Consciente subscribes to, endorses, adheres to or in any way supports the ideas, statements or expressions, legal or illegal of the sender; and (iii) are inappropriate or irrelevant to the activity of Árbore Consumo Consciente. In the event of breach of any of the above terms, Árbore Conscious Consumption will proceed immediately and without prior notice to remove the link."
+      },
+      "subTwo": {
+        "title": "Linked sites",
+        "descriptionOne": "In order to help you find additional information, we have included various technical linking devices that allow the User to access other websites (hereinafter, *Linked Sites*). In these cases, Árbore Conscious Consumption acts as an intermediary service provider, according to the provisions of Article 17 of the LSSI. In accordance with the provisions of the aforementioned legislation, Árbore Conscious Consumption will not be responsible for the services and content provided through the Linked Sites, unless it has actual knowledge of the unlawfulness and has not disabled the link with due diligence. It is possible that some of the Linked Sites are owned by Árbore Conscious Consumption, in which case Árbore Conscious Consumption will be responsible for the services and content provided through them, however, you can identify the ownership of Árbore Conscious Consumption by going to the Legal Notice of the aforementioned Linked Sites. In no case the existence of Linked Sites, of which Árbore Conscious Consumption is not the owner, implies recommendation, promotion, identification or conformity of Árbore Conscious Consumption with the statements, content or services provided through the Linked Sites. Consequently, Árbore Conscious Consumption is not responsible for the content of the Linked Sites, nor for their conditions of use and privacy policies, being the User solely responsible for checking and accepting them each time he/she accesses and uses them. In the event that the User considers that there are illegal, harmful, denigrating, violent or inappropriate contents in the Linked Sites, he/she may inform Árbore Conscious Consumption through the following e-mail address: [info@arbore.org](mailto:info@arbore.org). However, such communication shall in no case entail the obligation of Árbore Conscious Consumption to remove the corresponding link, nor does it necessarily imply the effective knowledge of Árbore Conscious Consumption of the unlawfulness of the contents of the Linked Site, for the purposes of the provisions of the regulations in force."
+      }
+    },
+    "secSix": {
+      "title": "Reporting of illegal or inappropriate content",
+      "descriptionOne": "As stated in the section *ACCEPTANCE OF THE LEGAL NOTICE* of this Legal Notice, in order to participate in the services and functionalities of the Portal (forums, blogs, etc.) it is necessary to register as a Registered User.",
+      "descriptionTwo": "Notwithstanding the foregoing, the User may consult the contents included by Registered Users on the occasion of their participation in the aforementioned services and functionalities. In this regard, in the event that the User observes that information or content of an unlawful, harmful, unethical, contrary to ethics, uses and customs and/or inappropriate or irrelevant to the principles, aims, purposes and activities of Árbore Conscious Consumption have been included in the Portal, he/she may report this circumstance through the following email address, info@arbore.org.",
+      "descriptionThree": "However, such communication shall in no case necessarily entail the obligation of Árbore Conscious Consumption to remove the corresponding content or information, nor does it necessarily imply the effective knowledge of Árbore Conscious Consumption of the unlawfulness of the contents of the Linked Site, for the purposes of the provisions of the regulations in force."
+    },
+    "secSeven": {
+      "title": "Responsibility of Árbore Consumo Consciente",
+      "descriptionOne": "The User acknowledges and accepts that, although Árbore Conscious Consumption makes its best efforts to ensure the accuracy of the content and information included on the Website, these are general and purely informative. Similarly, the information on consumer products, recipes, events, or health information made available to the User through the Website has the same character, not constituting in any case such information as a recommendation by Árbore Conscious Consumption to Users of a particular method of eating or living habits. Consequently, Árbore Conscious Consumption is not responsible for the decisions made by the User based on the information provided through the Website, nor for any damages caused to the User or third parties as a result of actions based on information obtained from the Website.",
+      "descriptionTwo": "On the other hand, through features such as opinion forums, blogs, etc., Árbore Conscious Consumption offers the Registered User the possibility of including information and content on the Website. In this regard, Árbore Conscious Consumption makes its best efforts to check that the information and content included in the Portal by Registered Users do not have illegal, denigratory, defamatory, violent or harmful content; nor are they contrary to law, ethics, morals, good customs or the principles of Árbore Conscious Consumption.",
+      "descriptionThree": "However, given the material impossibility of carrying out such an exhaustive review, the publication on the Website of the information and content provided by Registered Users cannot and should not be interpreted or understood in any way as an approval, recommendation, promotion, identification or conformity of Árbore Conscious Consumption with the information or content published. Thus, under no circumstances shall Árbore Conscious Consumption be responsible for the information and content included by the Registered User on the Website, the latter being solely responsible for the consequences that may arise from the inclusion by the User on the Website of unlawful information or content.",
+      "descriptionFour": "Notwithstanding the foregoing, Árbore Conscious Consumption reserves the right to remove at any time the information or content included by the Registered User on the Website, in the event that it considers that such information or content is potentially unlawful, inappropriate or inadequate, or not relevant to the principles, aims, purposes and activities of the AECC. On the other hand, access to the Website does not imply any obligation on the part of Árbore Conscious Consumption to control the absence of viruses, worms or any other harmful computer element. It is up to the User, in any case, the use of appropriate tools for the detection of such harmful elements. Consequently, Árbore Conscious Consumption shall not be liable for any damage caused to the computer equipment of the User or third parties through the provision of services through the Website.",
+      "descriptionFive": "The availability of the service requires services and supplies from third parties, including transport services through telecommunications networks whose reliability, quality and operation does not depend on Árbore Conscious Consumption. Consequently, Árbore Conscious Consumption does not guarantee the availability of the Website and may be interrupted, suspended or canceled at any time the services provided through it. In particular, Árbore Conscious Consumption is not responsible for damages of any kind caused to the User as a result of the lack of availability of the Website and, in particular, those caused by failures in telecommunications networks. In addition, Árbore Conscious Consumption reserves the right to revise the Website or to deny access to it at any time."
+    },
+    "secEight": {
+      "title": "Responsibilities of members",
+      "descriptionOne": "Users who wish to register as partners, must complete the form provided on our Web Portal. The condition of partner is personal and non-transferable. Those natural or legal persons with legal capacity can be partners. In case of being a minor, we must have the written consent of the legal guardian or guardians. Through this form, users must provide their personal identification data, contact details and bank details. Members must pay a fee, which may be 10€, 20€, 40€ or other amounts that they wish to contribute as a condition of membership. Members are responsible for keeping their data updated and communicate any changes to Árbore Conscious Consumption. Members must not disclose or transmit any membership number or any other identification number to third parties, as well as other personal data that could be used against the interests of Árbore Conscious Consumption or third parties. Members are obliged to make proper use of the rights and benefits offered by such status. Árbore Conscious Consumption reserves the right to refuse or withdraw membership if it becomes aware of conduct that goes against the principles of the entity, as well as those terms and conditions that have been particularly agreed with the partner. Likewise, Árbore Conscious Consumption reserves the right to withdraw the status of member, in case of failure to meet the established fees or failure to comply with the statutes and rules of the cooperative. Finally, members may terminate their membership at any time by contacting [info@arbore.org](mailto:info@arbore.org) identifying themselves as a member and expressing their desire to terminate their membership."
+    },
+    "secNine": {
+      "title": "Data protection",
+      "descriptionOne": "The aspects related to the treatment of the personal data of the Users on the occasion of the use of the Portal are regulated in the Privacy Policy, as well as in the legal texts attached to the diverse forms of data collection included in the Portal. All users who make use of our Web Portal are obliged to review the Privacy Policy, in order to be informed of the possible processing of their personal data and the rights they have. Árbore Conscious Consumption recommends reviewing the Privacy Policy, this Legal Notice, as well as any other terms and conditions included in this portal, on a regular basis since Árbore Conscious Consumption reserves the right to modify them within the limits that current and applicable legislation allows. As indicated in section 2.1 of this Legal Notice, the aspects relating to the processing of personal data of Users on the occasion of the use of the Portal are regulated in the LINK TO THE PRIVACY POLICY, as well as in the legal texts attached to the various data collection forms included in the Portal."
+    },
+    "secTen": {
+      "title": "Miscellaneous",
+      "descriptionOne": "In accordance with Article 3 of the LSSI, the laws applicable to the services of the information society that Árbore Consumo Consciente provides through the Portal shall be those of the Kingdom of Spain. In the event that any of the provisions contained in this Legal Notice is declared invalid, it shall be withdrawn or replaced. In any case, such declaration of nullity shall not affect the validity of the rest of the provisions contained in this Legal Notice. The User and Árbore Conscious Consumption agree to submit to the Courts and Tribunals of Vigo, rejecting any other voluntary jurisdiction, in relation to any disputes that may arise as a result of the use of the Website by users."
+    },
+    "seo": {
+      "title": "Legal warning",
+      "description": "Legal warning Page"
+    }
+  },
+  "privacy": {
+    "title": "Privacy policy",
+    "seo": {
+      "title": "Privacy policy",
+      "description": "Privacy policy Page"
+    }
+  },
+  "cookies": {
+    "title": "Cookies policy",
+    "secOne": {
+      "title": "What is a cookie?",
+      "descriptionOne": "We inform the User that the Portal uses cookie devices in order to personalize the layout of the content offered through the Website to the User's browsing routines and preferences.",
+      "descriptionTwo": "Cookies are automatic procedures for collecting information regarding the preferences determined by a user during his visit to a certain web page in order to recognize him as a recurring user and to personalize his experience and his use of our Portal. Cookies will be stored on your computer's hard drive until you delete them."
+    },
+    "secTwo": {
+      "title": "What cookies are used on our site?",
+      "subOne": {
+        "title": "Technical cookies",
+        "descriptionOne": "They are necessary for the proper functioning of the web.",
+        "c1": {
+          "title": "Permanent cookie",
+          "descriptionOne": "They are stored on the hard drive and the website reads them every time you make a new visit. They are used to facilitate the login to the Árbore Conscious Conscious website and consent to the policy of said cookies.",
+          "name": "consentCookie"
+        }
+      },
+      "subTwo": {
+        "title": "Analytics cookies",
+        "descriptionOne": "They are used to obtain anonymous browsing statistics. In order to improve navigation on our website. For this we use Google Analytics and Google Tag Manager cookies.",
+        "descriptionTwo": "The names of the cookies are: _gid and _ga."
+      }
+    },
+    "secThree": {
+      "title": "How to delete cookies?",
+      "descriptionOne": "We inform you that you can easily reject and delete the cookies installed on your computer by configuring your browser program. In this sense, the procedures for blocking and eliminating cookies may differ from one Internet browser to another and, consequently, we ask you to refer to the instructions provided by the manufacturer of your Internet browser. In the event that you reject the use of cookies, you may continue to use our Portal, although you may have limited use of some of the features of the Website.",
+      "descriptionTwo": "Through the following links, to the main browsers, you can configure the cookies on your device, terminal or computer:",
+      "links": {
+        "chrome": "https://support.google.com/chrome/answer/95647?hl=es&hlrm=en",
+        "firefox": "http://support.mozilla.org/es/kb/cookies-informacion-que-los-sitios-web-guardan-en-?redirectlocale=en-US&redirectslug=Cookies",
+        "safari": "http://support.apple.com/kb/PH5042?viewlocale=es_EShttp://support.apple.com/kb/HT1677?viewlocale=es_ES",
+        "opera": "http://help.opera.com/Windows/11.50/es-ES/cookies.html"
+      }
+    },
+    "seo": {
+      "title": "Cookies policy",
+      "description": "Cookies policy Page"
+    }
+  },
+
+  "404": {
+    "title": "404",
+    "seo": {
+      "title": "404",
+      "description": "404 Page"
+    }
+  }
+}
